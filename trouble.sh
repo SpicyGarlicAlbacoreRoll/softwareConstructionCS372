@@ -1,1 +1,1 @@
-echo "And make it double"
+echo prepare for trouble, and make it double
